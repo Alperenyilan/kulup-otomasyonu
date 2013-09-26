@@ -1,2 +1,2 @@
-http://blog.sckn.co/ 
+http://sckn.co/ 
 OPENCV,PYQT kütüphanelerinin kullanım örnekleri
